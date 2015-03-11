@@ -14,7 +14,7 @@ If you are familiar with Git, you can clone this repository from Github inside t
 
 Or you can use it as a Git Submodule. From your project root:
 
-    git submodule add git@github.com:FabianSperrle/kirby-version.git site/fields/version
+    git submodule add git@github.com:FabianSperrle/kirby-version.git site/widgets/version
 
 ## Authors
 
