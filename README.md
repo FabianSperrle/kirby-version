@@ -2,6 +2,8 @@
 
 Displays the current version of kirby and the panel as a panel widget.
 
+![Version Panel](http://i.imgur.com/FhesEJw.jpg)
+
 ## Installation
 
 ### Download
